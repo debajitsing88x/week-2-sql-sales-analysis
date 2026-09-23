@@ -1,0 +1,52 @@
+# Week 2: Sales Data Analysis
+
+## Overview
+
+This project analyses 200 sales orders using MySQL and Python Pandas. It covers data validation, customer analysis, average order value, category and regional performance, monthly trends, sorting, grouping, and correlation analysis.
+
+## Tools Used
+
+* MySQL Workbench
+* Python
+* Pandas
+* Microsoft Excel
+* VS Code
+
+## Project Files
+
+* Dataset/ — Excel and CSV datasets
+* SQL/ — Complete SQL analysis
+* Python/ — Pandas practice questions
+* Result/ — Exported analysis results
+* Screenshot/ — Important query outputs
+
+## Key Findings
+
+* Total revenue: ₹2,420,107
+* Average order value: ₹12,100.54
+* Top customer/order: Lynn Garrison — ₹47,940
+* Top category: Furniture — ₹714,399
+* Top region: South — ₹808,651
+* Best complete month: March 2025 — ₹567,482
+* Top subcategory: Bread — ₹244,529
+
+## Analysis Completed
+
+* Basic SQL queries and aggregate functions
+* GROUP BY, ORDER BY, subqueries and CASE
+* Join and window-function analysis
+* Missing-value and duplicate checks
+* Pandas grouping and multi-column sorting
+* Correlation matrix
+
+## Run the Python File
+
+```bash
+pip install pandas
+python Python/python_practice.py
+```
+
+## Author
+
+Debajit Sing
+B.Tech Computer Science and Engineering student interested in Data and Business Analytics.
