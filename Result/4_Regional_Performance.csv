@@ -1,0 +1,5 @@
+region,total_orders,units_sold,total_revenue,average_order_value,revenue_percentage
+South,66,345,808651.00,12252.29,33.41
+East,51,230,619250.00,12142.16,25.59
+West,43,245,599367.00,13938.77,24.77
+North,40,162,392839.00,9820.98,16.23

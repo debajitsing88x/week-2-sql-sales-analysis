@@ -1,0 +1,5 @@
+category,total_orders,units_sold,total_revenue,average_order_value,revenue_percentage
+Furniture,59,269,714399.00,12108.46,29.52
+Grocery,49,269,672147.00,13717.29,27.77
+Electronics,52,217,549302.00,10563.50,22.70
+Clothing,40,227,484259.00,12106.48,20.01
